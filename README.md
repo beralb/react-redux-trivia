@@ -1,5 +1,22 @@
 <h1 align="center">React-Redux-Trivia</h1>
-<h3 align="center">This was a project developed in the front-end module of web development of Trybe, using technologies such React, Redux, HTML, CSS and Javascript. This project was developed in collaborations with the partners below:</h3>
+<h3 align="center">This was a project developed in the back-end module of Web Development Course of <a href=https://www.betrybe.com>Trybe</a></h3>
+
+</br>
+
+🔭 In this project we exercised:
+ 
+- Create a Redux store in React applications
+- Create reducers in Redux
+- Create actions
+- Create dispatchers
+- Connect Redux to React Components
+- Create asynchronous actions in React application that makes use of Redux
+- Write tests to ensure the application has good test coverage
+  
+</br>
+  
+  
+This project was developed in collaboration with the partners below:</h3>
 
 - Peter Fritz [https://github.com/peterfritz](https://github.com/peterfritz)
 - Leandro Camargo [https://github.com/leandro-bcamargo](https://github.com/leandro-bcamargo)
